@@ -2,5 +2,5 @@
 - 👀 I’m interested in Software Engineering and Software Development.
 - 🌱 I’m currently learning Back-end Web Development in Java programming language.
 - 📫 You can contact with me by:
-          telegram -> https://www.t.me/arn_sd
+          telegram -> https://t.me/avabdurakhmon
           instagram  -> https://www.instagram.com/arn_se
