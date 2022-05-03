@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Back-end Web Development in Java programming language.
 - 📫 You can contact with me by:
           telegram -> https://t.me/avabdurakhmon
-          instagram  -> https://www.instagram.com/arn_se
+          instagram  -> https://www.instagram.com/av_abdurakhmon
